@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
 <h3 align="center">💡 Pixel Perfectionist | Shaping the Web, One Pixel at a Time 🚀🌐</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrinceKumar7827&label=Profile%20views&color=0e75b6&style=flat" alt="PrinceKumar7827" /> </p>komarev.com/ghpvc/?username=PrinceKumar7827&label=Profile%20views&color=0e75b6&style=flat" alt="PrinceKumar7827" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PrinceKumar7827&label=Profile%20views&color=0e75b6&style=flat" alt="PrinceKumar7827" /> </p>
 
 # 💫 About Me:
 🛠 I'm currently working on: Building cool web projects using JavaScript, GSAP, and Tailwind CSS.<br>🤝 I'm looking to collaborate on: Frontend web designs and interactive UI projects.<br>🙌 I'm looking for help with: Improving my JavaScript animations and learning backend basics.<br>🌱 I'm currently learning: GSAP, advanced JavaScript, and Tailwind CSS.<br>💬 Ask me about: Frontend development, creating responsive UIs, and GitHub hosting.<br>⚡ Fun fact: I love experimenting with web animations and creating smooth user experiences!
