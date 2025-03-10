@@ -1,12 +1,7 @@
 # 💫 About Me:
 🛠 I'm currently working on: Building cool web projects using JavaScript, GSAP, and Tailwind CSS.<br>🤝 I'm looking to collaborate on: Frontend web designs and interactive UI projects.<br>🙌 I'm looking for help with: Improving my JavaScript animations and learning backend basics.<br>🌱 I'm currently learning: GSAP, advanced JavaScript, and Tailwind CSS.<br>💬 Ask me about: Frontend development, creating responsive UIs, and GitHub hosting.<br>⚡ Fun fact: I love experimenting with web animations and creating smooth user experiences!
 
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/bbf5ea5d-c14a-42cd-803b-af506e5a84fd" width="400" height="250"/>
-</p>
-
-
+![Image](https://github.com/user-attachments/assets/bbf5ea5d-c14a-42cd-803b-af506e5a84fd)
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/trDpWyQx) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/skibidicode) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prince-kumar-626b2033b) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/29957709) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@skibidicode) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@skibidicode) [![Codepen](https://img.shields.io/badge/Codepen-000000?logo=codepen&logoColor=white)](https://codepen.io/@PrinceKumar7827) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:princekumar99998171156@gmail.com) 
 # 💻 Tech Stack:
