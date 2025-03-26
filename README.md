@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prince Kumar</h1>
-<h3 align="center">💡 Pixel Perfectionist<br>I'm more loyal to JavaScript than my own partner—my debugger never ghosts me! 🚀🌐</h3>
+<h3 align="center">💡 Pixel Perfectionist  🚀🌐<br>A person who's more loyal to JavaScript than his own partner! 👻</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PrinceKumar7827&label=Profile%20views&color=0e75b6&style=flat" alt="PrinceKumar7827" /> </p>
 
